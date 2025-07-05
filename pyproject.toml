@@ -1,0 +1,13 @@
+[project]
+name = "chatgpt_codex_repo1"
+version = "0.1.0"
+description = "Example Python project managed with uv"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  { name = "Example Author", email = "author@example.com" }
+]
+
+[build-system]
+requires = ["uv>=0.7"]
+build-backend = "uv.build"
