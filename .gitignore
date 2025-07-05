@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# uv files
+.uv/
+uv.lock
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
